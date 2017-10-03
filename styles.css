@@ -175,12 +175,12 @@ a img{
 
 .android-be-together-section {
   position: relative;
-  height: 500px;
+  height: 800px;
   width: auto;
   background-color: #f3f3f3;
-  background: url(images/iStock-498746659.jpg) center 80% no-repeat;
+  background: url(images/calllBackground.png) center 80% no-repeat;
 
-      background-size: 700px;
+      background-size: cover;
 }
 
 .logo-font {
