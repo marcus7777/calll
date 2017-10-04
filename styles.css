@@ -42,7 +42,6 @@ a img{
   margin: 0 !important;
 }
 
-
 .mdl-textfield--expandable {
   width: auto;
 }
@@ -193,7 +192,7 @@ a img{
 .android-sub-slogan {
   font-size: 21px;
   padding: 24px;
-  background-color: rgba(234, 239, 239, .6);
+  background-color: rgba(234, 239, 239, .8);
 }
 
 .android-create-character {
