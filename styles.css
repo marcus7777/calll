@@ -46,7 +46,6 @@ a img{
 .mdl-textfield--expandable {
   width: auto;
 }
-
 .android-fab {
   position: absolute;
   right: 20%;
@@ -55,12 +54,9 @@ a img{
   background: #64ffda !important;
   color: black !important;
 }
-
 .android-mobile-title {
   display: none !important;
 }
-
-
 .android-logo-image {
   height: 65px;
   margin: -15px;
@@ -178,7 +174,7 @@ a img{
   height: 800px;
   width: auto;
   background-color: rgba(234, 239, 239, 1);
-  background: url(images/calllBackground.png) center 80% no-repeat;
+  background: url(images/calll-background.png) center 80% no-repeat;
   background-size: cover;
 }
 
