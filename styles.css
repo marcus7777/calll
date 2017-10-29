@@ -184,7 +184,8 @@ a img{
 
 .android-slogan {
   font-size: 60px;
-  padding-top: 160px;
+  padding: 160px;
+  color: aliceblue;
 }
 
 .android-sub-slogan {
