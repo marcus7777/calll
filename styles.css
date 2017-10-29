@@ -192,6 +192,8 @@ a img{
   font-size: 21px;
   padding: 24px;
   background-color: rgba(234, 239, 239, .8);
+  max-width: 651px;
+  margin: auto;
 }
 
 .android-create-character {
@@ -506,7 +508,6 @@ a img{
 
   .android-slogan {
     font-size: 34px;
-    margin: 0 16px;
     padding: 24px;
     color: aliceblue;
   }
