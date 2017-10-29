@@ -1,0 +1,27 @@
+[debug] [2017-10-29T10:12:26.200Z] ----------------------------------------------------------------------
+[debug] [2017-10-29T10:12:26.210Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-10-29T10:12:26.211Z] CLI Version:   3.13.1
+[debug] [2017-10-29T10:12:26.212Z] Platform:      linux
+[debug] [2017-10-29T10:12:26.212Z] Node Version:  v8.2.1
+[debug] [2017-10-29T10:12:26.212Z] Time:          Sun Oct 29 2017 10:12:26 GMT+0000 (GMT)
+[debug] [2017-10-29T10:12:26.212Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-10-29T10:12:26.236Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-10-29T10:12:26.237Z] > authorizing via signed-in user
+[debug] [2017-10-29T10:12:26.243Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/calll-5aa22  
+ Sun Oct 29 2017 10:12:26 GMT+0000 (GMT)
+[debug] [2017-10-29T10:12:27.230Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-29T10:12:27.232Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/calll-5aa22/tokens  
+ Sun Oct 29 2017 10:12:27 GMT+0000 (GMT)
+[debug] [2017-10-29T10:12:27.988Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/home/marcus/calll'...
+[info] 
+[debug] [2017-10-29T10:12:27.995Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/calll-5aa22  
+ Sun Oct 29 2017 10:12:27 GMT+0000 (GMT)
+[debug] [2017-10-29T10:12:28.725Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-29T10:12:28.726Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/952097453312/clients/_:getWebAppConfig  
+ Sun Oct 29 2017 10:12:28 GMT+0000 (GMT)
+[debug] [2017-10-29T10:12:29.215Z] <<< HTTP RESPONSE 200
+[info] ✔  hosting: Local server: http://localhost:5000
+
