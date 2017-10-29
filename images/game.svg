@@ -3,9 +3,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <g>
-	<rect x="234.151" y="125.95" style="fill:#2BA5F7;" width="56.331" height="28.166"/>
-	<rect x="331.074" y="125.95" style="fill:#2BA5F7;" width="56.331" height="28.166"/>
-	<polygon style="fill:#2BA5F7;" points="406.097,154.116 406.097,270.081 308.146,270.081 215.465,270.081 215.465,154.116 
+	<rect x="234.151" y="125.95" style="fill:##36c;" width="56.331" height="28.166"/>
+	<rect x="331.074" y="125.95" style="fill:##36c;" width="56.331" height="28.166"/>
+	<polygon style="fill:##36c;" points="406.097,154.116 406.097,270.081 308.146,270.081 215.465,270.081 215.465,154.116 
 		234.153,154.116 290.485,154.116 331.077,154.116 387.408,154.116 	"/>
 </g>
 <g>
